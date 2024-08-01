@@ -42,6 +42,7 @@ html, body {
 }
 
 #p5_loading {
+  display: none;
   left: 50%;
   top: 50%;
   width: 40px;
