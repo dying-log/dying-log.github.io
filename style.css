@@ -71,7 +71,7 @@ h1 {
   width: 100px;
   height: 100px;
   position: fixed;
-  left: 0px;
-  top: 0px;
+  left: 10px;
+  top: 10px;
   z-index: 99;
 }
