@@ -66,9 +66,9 @@ h1 {
 }
 
 .qr-code {
-  background: url('image/qrcode.jpg') no-repeat center center;
+  background: url('image/qrcode.jpg') no-repeat left bottom;
   background-size: contain;
-  width: 100px;
+  width: 200px;
   height: 100px;
   position: fixed;
   left: 10px;
