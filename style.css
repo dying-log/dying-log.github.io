@@ -64,3 +64,14 @@ h1 {
   font-weight: normal;
   font-size: 2em;
 }
+
+.qr-code {
+  background: url('image/qrcode.jpg') no-repeat center center;
+  background-size: contain;
+  width: 100px;
+  height: 100px;
+  position: fixed;
+  left: 10px;
+  bottom: 10px;
+  z-index: 99;
+}
